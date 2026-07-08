@@ -17,7 +17,7 @@ The secure, production-ready live tool can be accessed here:
 ## 🛠️ Built With
 
 - **HTML5 & CSS3**
-- **Vanilla JavaScript (ES6+)**
+- **PHP**
 
 ## 🛑 Terms of Use & Copyright
 
@@ -26,7 +26,5 @@ The secure, production-ready live tool can be accessed here:
 This repository and its contents are strictly for demonstration and portfolio viewing purposes. 
 
 - **No Copying/Cloning:** You are not permitted to clone, download, or copy this source code for personal or commercial use.
-- **No Redistribution:** You may not host, republish, mirror, or redistribute any files or code from this project.
 - **No Derivatives:** Modification or creation of derivative works based on this code is strictly prohibited.
-
-*GitHub Terms of Service allow users to view this repository through the GitHub interface, but no implied rights or open-source licenses are granted.*
+- **No Backend:** Your Data Is secured in only your own machine, so your data is only available to you.
